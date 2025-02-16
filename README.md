@@ -8,8 +8,9 @@
 
 ## Connect With Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/madhavmundhra18/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/madhav182004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/madhavmundhra18/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/MadhavMundhra_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/madhav3201/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ## Languages and Skills:
@@ -30,4 +31,3 @@
 </p>
 
 ---
-
